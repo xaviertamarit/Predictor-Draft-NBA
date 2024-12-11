@@ -48,8 +48,8 @@ A més, necessites Python 3.7 o superior i Jupyter Notebook per executar el fitx
    - Modifica el notebook per carregar el teu dataset (per exemple, un fitxer CSV o Excel).
    - Ajusta els passos de preprocessament segons les necessitats del teu dataset.
 
-4. **Visualitzacions**:
-   - Inspecciona els gràfics generats al notebook per obtenir idees sobre les dades i el rendiment del model.
+4. **Train-test i randomstate utilitzat**:
+   - S'ha utilitzat una proporcio de train i test de 0.8 i 0.2 amb randomstate=1
 
 ## Notes
 
